@@ -51,5 +51,3 @@ retailpulse-ai/
 ├── src/
 └── samples/
 ```
-
-> **Scope Note:** This repository documents the architecture and workflow design for `retailpulse-ai`. Verify exact table schemas, thresholds, and runtime configurations against the code and fixtures added under `src/` and `samples/`.
